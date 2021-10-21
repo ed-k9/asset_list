@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Ethereum",
     "symbol": "ETH",
     "website": "https://ethereum.org/",
@@ -11,6 +12,7 @@
     "decimals": 18
   },
   {
+    "id": 2,
     "name": "BNB Coin",
     "symbol": "BNB",
     "website": "https://binance.org/",
@@ -22,6 +24,19 @@
     "decimals": 8
   },
   {
+    "id": 3,
+    "name": "xDai",
+    "symbol": "XDAI",
+    "website": "https://www.xdaichain.com/",
+    "description": "The first-ever USD stable blockchain and multi-chain staking token",
+    "explorer": "https://blockscout.com/poa/xdai",
+    "twitter": "https://twitter.com/xdaichain",
+    "reddit": "https://reddit.com/r/POA",
+    "whitepaper": "https://www.xdaichain.com/for-validators/posdao-whitepaper",
+    "decimals": 18
+  },
+  {
+    "id": 4,
     "name": "K9 Wallet Token",
     "symbol": "K9WT",
     "website": "https://www.k9wallet.com/",

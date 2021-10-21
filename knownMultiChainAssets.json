@@ -1,7 +1,8 @@
 [
     {
+        "asset_id": 4,
         "name": "K9 Wallet Token",
-        "Symbol": "K9WT",
+        "symbol": "K9WT",
         "chains": [
             {
                 "name": "eth",
