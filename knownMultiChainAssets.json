@@ -5,16 +5,19 @@
         "symbol": "K9WT",
         "chains": [
             {
+                "chain_id": 1,
                 "name": "eth",
                 "address": "0x78097c01875952a444cf359e28d7d5c5f333aeec",
                 "explorer": "https://etherscan.io/token/0x78097c01875952a444cf359e28d7d5c5f333aeec"
             },
             {
+                "chain_id": 3,
                 "name": "xdai",
                 "address": "0xcDC9D5E3eF18fB815325b0d7e566d52dC8cca3d1",
                 "explorer": "https://blockscout.com/xdai/mainnet/tokens/0xcDC9D5E3eF18fB815325b0d7e566d52dC8cca3d1"
             },
             {
+                "chain_id": 2,
                 "name": "bsc",
                 "address": "0x78097c01875952a444cf359e28d7d5c5f333aeec",
                 "explorer": "https://bscscan.com/token/0x78097c01875952a444cf359e28d7d5c5f333aeec"
