@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Nomics",
+        "home": "https://nomics.com/"
+    },
+
+    {
+        "id": 2,
+        "name": "CoinGecko",
+        "home": "https://www.coingecko.com/"
+    },
+    {
+        "id": 3,
+        "name": "CoinMarketCap",
+        "home": "https://coinmarketcap.com/"
+    }
+]
