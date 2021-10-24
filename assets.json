@@ -9,7 +9,8 @@
     "twitter": "https://twitter.com/ethereum",
     "reddit": "https://reddit.com/r/ethereum",
     "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper",
-    "decimals": 18
+    "decimals": 18,
+    "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "twitter": "https://twitter.com/binance_dex",
     "reddit": "https://reddit.com/r/BinanceExchange",
     "whitepaper": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf",
-    "decimals": 8
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
     "twitter": "https://twitter.com/xdaichain",
     "reddit": "https://reddit.com/r/POA",
     "whitepaper": "https://www.xdaichain.com/for-validators/posdao-whitepaper",
-    "decimals": 18
+    "decimals": 18,
+    "logo_url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/info/logo.png"
   },
   {
     "id": 4,
@@ -44,6 +47,7 @@
     "twitter": "https://twitter.com/K9Wallet",
     "reddit": "https://www.reddit.com/r/k9wallet/",
     "whitepaper": "https://hackmd.io/@K9dev/HyF0LZMn_",
-    "decimals": 18
+    "decimals": 18,
+    "logo_url": "https://k9wallet.com/assets/images/logo-200.png"
   }
 ]
