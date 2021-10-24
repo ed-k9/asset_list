@@ -1,18 +1,21 @@
 [
   {
     "id": 1,
+    "chain_id": 1,
     "asset_id": 1,
     "name": "Ethereum",
     "symbol": "ETH"
   },
   {
     "id": 3,
+    "chain_id": 100,
     "asset_id": 3,
     "name": "XDai",
     "symbol": "XDAI"
   },
   {
     "id": 2,
+    "chain_id": 56,
     "asset_id": 2,
     "name": "Binance Smart Chain",
     "symbol": "BSC"
